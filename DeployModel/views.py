@@ -171,6 +171,6 @@ def result(request):
     # lis.append(request.GET['StreamingTV'])
     # lis.append(request.GET['OnlineBackup'])
 
-    ans = 1
+    ans = ans
 
     return render(request,"result.html",{'ans':ans})
