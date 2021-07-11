@@ -1,6 +1,8 @@
 # AI_Project
-# R177222F Joy Pedze
-# R175791S Sibongile Chiwandire
+
+R177222F Joy Pedze
+
+R175791S Sibongile Chiwandire
 
 # Video:
 https://youtu.be/PKyYm00GQQI
